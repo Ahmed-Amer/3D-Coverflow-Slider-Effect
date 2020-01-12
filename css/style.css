@@ -1,0 +1,38 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+h1,p
+{
+    text-align: center;
+    margin-top: 50px;
+}
+/*Demo styles */
+    body {
+      background: #2f2d2d;
+      font-size: 14px;
+      color:#FFF;
+      margin: 0;
+      padding: 0;
+    }
+    .swiper-container {
+      width: 100%;
+      padding-top: 50px;
+      padding-bottom: 50px;
+    }
+    .swiper-slide {
+      background-position: center;
+      background-size: cover;
+      width: 300px;
+      height: 300px;
+    }
+/*End Slider */
+p
+{
+    text-align: center;
+    margin-top: 100px;
+    color: #888
+}
+a{
+    text-decoration: underline;
+    color: #FFF;
+}
